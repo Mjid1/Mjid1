@@ -9,6 +9,6 @@ I enjoy learning new technologies, solving problems, and contributing to open-so
 ### 🛠️ Tech Stack  
 💻 **Languages:** JavaScript, Python, C++, SQL  
 🌐 **Frontend:** React, Next.js, HTML, CSS, TailwindCSS  
-🧩 **Backend:** Flask, Laravel, SpringBoot 
-🛢️ **Databases:** MongoDB, PostgreSQL, MySQL  
-⚙️ **Tools:** Git, Docker, VS Code, Postman  
+🧩 **Backend:** Flask, Laravel, SpringBoot  
+⚙️ **Tools:** Git, Docker, VS Code, Postman
+🛢️ **Databases:** MongoDB, PostgreSQL, MySQL
