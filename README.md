@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Mjid
 
 ### 🚀 About Me  
-I'm a passionate **developer** who loves building creative and impactful projects.  
+I'm a **developer fueled by coffee** and driven by curiosity.   
 I enjoy learning new technologies, solving problems, and contributing to open-source.
 
 - 💬 Ask me about **web development, APIs, and software architecture**  
