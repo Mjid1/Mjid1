@@ -2,11 +2,7 @@
 
 ### 🚀 About Me  
 I'm a **developer fueled by coffee** and driven by curiosity.   
-I enjoy learning new technologies, solving problems, and contributing to open-source.
-
-- 💬 Ask me about **web development, APIs, and software architecture**  
-- ⚙️ I work with **JavaScript | Python | Node.js | React | Git | Docker | Laravel**  
-- 🎯 2025 Goals: **Contribute to more open-source projects**  
+I enjoy learning new technologies, solving problems, and contributing to open-source. 
 
 ---
 
