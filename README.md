@@ -9,4 +9,4 @@ I enjoy learning new technologies, solving problems, and contributing to open-so
 🌐 **Frontend:** React, Next.js, HTML, CSS, TailwindCSS  
 🧩 **Backend:** Flask, Laravel, Spring Boot  
 ⚙️ **Tools:** Git, Docker, VS Code, Postman, MySQL Workbench  
-🛢️ **Databases:** MongoDB, PostgreSQL, MySQL
+🛢️ **Databases:** MySQL, MongoDB
