@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mjid  
+## Hi there 👋, I'm Majid  
 
 ### 🚀 About Me  
 I'm a **developer fueled by coffee** and driven by curiosity.  
