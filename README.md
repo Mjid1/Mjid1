@@ -1,11 +1,1 @@
-## Hi there 👋, I'm Majid  
-
-### 🚀 About Me  
-I'm a **developer fueled by coffee** and driven by curiosity.  
----
-### 🛠️ Tech Stack  
-💻 **Languages:** Python, JavaScript, PHP, Java, SQL, Assembly  
-🌐 **Frontend:** React, Next.js, HTML, CSS, TailwindCSS  
-🧩 **Backend:** Flask, FastApi, Laravel, Spring Boot  
-⚙️ **Tools:** Git, Docker, VS Code, Postman, MySQL Workbench  
-🛢️ **Databases:** MySQL, MongoDB
+## Hi there 👋, I'm Majid a **developer fueled by coffee** and driven by curiosity.  
